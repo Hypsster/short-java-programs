@@ -11,7 +11,8 @@ public class evenodd_checker {
         if (a % 2 == 0)
         {
             System.out.println(a + " is an even number");
-        }else{
+        }else
+        {
             System.out.println(a + " is an odd number");
         }
     }

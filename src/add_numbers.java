@@ -12,17 +12,6 @@ public class add_numbers
         System.out.println("2nd Number: ");
         double num2 = userInput.nextDouble();
         double r = num1 + num2;
-
         System.out.println("The total is: " +  r);
-
-
-
-
-
-
-
-
-
     }
-
 }
