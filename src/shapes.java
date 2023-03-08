@@ -9,6 +9,7 @@ public class shapes
         for (int i = l - 1; i>=0; i--)
         {
                 System.out.println("*"+" ");
+
         }
     }
 }
